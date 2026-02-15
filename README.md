@@ -9,7 +9,7 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 
 <h1>Jonhatan Alvarracin</h1>
 
-<img src="." alt="Imagen de perfil">
+<img src="Jhonatan.jpg" alt="Imagen de perfil">
 
 <p>
         <strong>Rol</strong>
@@ -19,6 +19,8 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 <p>
         <b>Ubicación</b>
         Chia, Cundinamarca 
+<p>
+<p>
         <b>Perfil</b> 
         Tecnólogo en producción multimedia y actual estudiante de ingeniería multimedia de 8 periodo interesado en el uso de programas de edición, modelado con enfoque en la gesttión de proyectos multimedia.
 </p>
