@@ -1,1 +1,4 @@
+git rm -r nombre_de_la_carpeta
+git commit -m "Eliminar carpeta"
+git push
 
