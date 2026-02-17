@@ -24,3 +24,16 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
         <b>Perfil</b> 
         Tecnólogo en producción multimedia y actual estudiante de ingeniería multimedia de 8 periodo interesado en el uso de programas de edición, modelado con enfoque en la gesttión de proyectos multimedia.
 </p>
+
+<h1>Julián Tunjuelo</h1>
+
+<p>
+  <b>Rol:</b> Analista de aplicaciones
+</p>
+
+<p>
+  <b>Ubicación:</b> Bogotá, Colombia
+</p>
+
+<p>
+  <b>Perfil:</b> Estudiante de Ingeniería Multimedia, Tecnólogo en Analisis y desarrollo de sistemas de información
