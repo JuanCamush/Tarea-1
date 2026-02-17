@@ -1,8 +1,8 @@
 
 Julián Esteban Tunjuelo
 
-![Foto personal](JULIAN-T.jpg)
-![Plato favorito](COMIDA-FAVORITA.jpg)
+![Foto personal](./JULIAN%20T.jpg)
+![Plato favorito](./COMIDA%20FAVORITA.jpg)
 
 **Rol:** Analista de aplicaciones  
 **Ubicación:** Bogotá, Colombia  
