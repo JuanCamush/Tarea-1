@@ -1,1 +1,86 @@
-# Tarea-1
+## Juan Camush
+
+**Rol:** Programador de videojuegos  
+**Ubicación:** Colombia  
+
+**Perfil:**  
+Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con herramientas como Git y Unity en proyectos colaborativos.
+
+
+<h1>Jonhatan Alvarracin</h1>
+
+<img src="Jhonatan.jpg" alt="Imagen de perfil">
+
+<p>
+        <strong>Rol</strong>
+        Estudiante enfocado en gestión de proyectos, programación y producción de videojuegos con el gusto por las herramientas o programas de modelado y edición. 
+</p>
+
+<p>
+        <b>Ubicación</b>
+        Chia, Cundinamarca 
+<p>
+<p>
+        <b>Perfil</b> 
+        Tecnólogo en producción multimedia y actual estudiante de ingeniería multimedia de 8 periodo interesado en el uso de programas de edición, modelado con enfoque en la gesttión de proyectos multimedia.
+</p>
+
+<h1>Julián Tunjuelo</h1>
+
+<p>
+  <b>Rol:</b> Analista de aplicaciones
+</p>
+
+<p>
+  <b>Ubicación:</b> Bogotá, Colombia
+</p>
+
+<p>
+  <b>Perfil:</b> Estudiante de Ingeniería Multimedia, Tecnólogo en Analisis y desarrollo de sistemas de información
+
+
+
+  <h1>Yisel Moreno</h1>
+<img src="Yisel Moreno Muñoz/Yisel Moreno foto.png" alt="Imagen de perfil de Yisel Moreno">
+
+
+<p>
+        <strong>Rol:</strong>
+        Estudiante de Ingenieria multimedia con experiencia en Diseño digital y creacion de contenido multimedia.
+</p>
+
+<p>
+        <b>Ubicación:</b>
+        Bogota D.C., Colombia.
+<p>
+        <b>Perfil:</b> 
+        Tecnólogo en producción multimedia en el SENA, actualmente estudiante de ingeniería multimedia en 8vo semestre,apasionada por el arte y la tecnologia, trabajo como diseñadora grafica realizando multiples tareas como: creacion de contenido para redes sociales, ilustracion, edicion fotografica, diseño UI y UX, entre otros.
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/yisel-sofia-moreno-mu%C3%B1oz-1738011a9/" target="_blank">Ver perfil de LinkedIn</a>
+
+</p>
+
+
+<h1>Diego Alejandro Castro Galvis</h1>
+  <img src="/Diego_Castro/foto.jpeg" alt="Imagen de perfil">
+
+
+<p>
+        <strong>Rol:</strong>
+        Estudiante de Ingenieria multimedia y Analisis y desarrollo de software
+</p>
+
+<p>
+        <b>Ubicación:</b>
+        Bogota D.C., Colombia.
+<p>
+        <b>Perfil:</b> 
+        Soy tegnologo de produccion multimedia del SENA y me encuentro homologando la carrera de ingenieria multimedia, tambien me encuentro haciendo pasantias de un tegnologo en analizisis y desarrollo de software en el SENA
+</p>
+
+<p>
+<a href="www.linkedin.com/in/diego-castro-a567191b4" target="_blank">Ver perfil de LinkedIn</a>
+
+</p>
