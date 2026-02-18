@@ -41,6 +41,8 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 
 
   <h1>Yisel Moreno</h1>
+  <img src="fotos/Yisel%20Moreno%20foto.png" alt="Imagen de perfil">
+
 
 <p>
         <strong>Rol:</strong>
