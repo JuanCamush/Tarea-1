@@ -37,3 +37,25 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 
 <p>
   <b>Perfil:</b> Estudiante de Ingeniería Multimedia, Tecnólogo en Analisis y desarrollo de sistemas de información
+
+
+
+  <h1>Yisel Moreno</h1>
+
+<p>
+        <strong>Rol:</strong>
+        Estudiante de Ingenieria multimedia con experiencia en Diseño digital y creacion de contenido multimedia.
+</p>
+
+<p>
+        <b>Ubicación:</b>
+        Bogota D.C., Colombia.
+<p>
+        <b>Perfil:</b> 
+        Tecnólogo en producción multimedia en el SENA, actualmente estudiante de ingeniería multimedia en 8vo semestre,apasionada por el arte y la tecnologia, trabajo como diseñadora grafica realizando multiples tareas como: creacion de contenido para redes sociales, ilustracion, edicion fotografica, diseño UI y UX, entre otros.
+</p>
+
+<p>
+        <b>Linkedln:</b> 
+        <a> https://www.linkedin.com/in/yisel-sofia-moreno-mu%C3%B1oz-1738011a9/ </a>
+</p>
