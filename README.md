@@ -61,3 +61,26 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 <a href="https://www.linkedin.com/in/yisel-sofia-moreno-mu%C3%B1oz-1738011a9/" target="_blank">Ver perfil de LinkedIn</a>
 
 </p>
+
+
+<h1>Diego Alejandro Castro Galvis</h1>
+  <img src="/Diego_Castro/foto.jpeg" alt="Imagen de perfil">
+
+
+<p>
+        <strong>Rol:</strong>
+        Estudiante de Ingenieria multimedia y Analisis y desarrollo de software
+</p>
+
+<p>
+        <b>Ubicación:</b>
+        Bogota D.C., Colombia.
+<p>
+        <b>Perfil:</b> 
+        Soy tegnologo de produccion multimedia del SENA y me encuentro homologando la carrera de ingenieria multimedia, tambien me encuentro haciendo pasantias de un tegnologo en analizisis y desarrollo de software en el SENA
+</p>
+
+<p>
+<a href="www.linkedin.com/in/diego-castro-a567191b4" target="_blank">Ver perfil de LinkedIn</a>
+
+</p>
