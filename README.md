@@ -41,6 +41,8 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 
 
   <h1>Yisel Moreno</h1>
+  <img src="fotos/Yisel%20Moreno%20foto.png" alt="Imagen de perfil">
+
 
 <p>
         <strong>Rol:</strong>
@@ -56,6 +58,6 @@ Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con he
 </p>
 
 <p>
-        <b>Linkedln:</b> 
-        <a> https://www.linkedin.com/in/yisel-sofia-moreno-mu%C3%B1oz-1738011a9/ </a>
+<a href="https://www.linkedin.com/in/yisel-sofia-moreno-mu%C3%B1oz-1738011a9/" target="_blank">Ver perfil de LinkedIn</a>
+
 </p>
