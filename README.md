@@ -6,7 +6,7 @@
 **Perfil:**  
 Estoy interesado en el desarrollo de videojuegos y en aprender a trabajar con herramientas como Git y Unity en proyectos colaborativos.
 
-![Foto personal](fotojuan.jpeg)
+![Foto personal](fotojuan.jpg)
 
 
 <h1>Jonhatan Alvarracin</h1>
